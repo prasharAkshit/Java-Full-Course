@@ -1,6 +1,6 @@
 package Basics;
 
-public class T02StringClasses {
+public class T02String {
 
     static void main(String[] args) {
 
@@ -27,7 +27,7 @@ public class T02StringClasses {
         int int1 = 1; // Primitive variable stored in STACK
 
         // Object created in HEAP, reference stored in STACK
-        T02StringClasses obj1 = new T02StringClasses();
+        T02String obj1 = new T02String();
 
 
 
